@@ -1,4 +1,5 @@
-### Hi there 👋
+### opaaa👋
 Estudo no Alura
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-**bruna-houck16/bruna-houck16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bruna-houck16/bruna-houck16**
+-Estudando no Alura
+![](https://gifs.eco.br/wp-content/uploads/2021/09/imagens-e-gifs-de-gatos-1.gif)
